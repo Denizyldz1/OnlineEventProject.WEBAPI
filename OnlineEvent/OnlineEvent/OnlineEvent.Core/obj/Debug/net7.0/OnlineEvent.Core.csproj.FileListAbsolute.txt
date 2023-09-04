@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Core\bin\Debug\net7.0\OnlineEvent.Core.deps.json
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Core\bin\Debug\net7.0\OnlineEvent.Core.dll
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Core\bin\Debug\net7.0\OnlineEvent.Core.pdb
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Core\obj\Debug\net7.0\OnlineEvent.Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Core\obj\Debug\net7.0\OnlineEvent.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Core\obj\Debug\net7.0\OnlineEvent.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Core\obj\Debug\net7.0\OnlineEvent.Core.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Core\obj\Debug\net7.0\OnlineEvent.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Core\obj\Debug\net7.0\OnlineEvent.Core.dll
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Core\obj\Debug\net7.0\refint\OnlineEvent.Core.dll
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Core\obj\Debug\net7.0\OnlineEvent.Core.pdb
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Core\obj\Debug\net7.0\ref\OnlineEvent.Core.dll

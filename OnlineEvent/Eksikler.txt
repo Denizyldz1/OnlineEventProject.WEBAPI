@@ -1,0 +1,8 @@
+--Event--
+ticketInfo Validaysonu kaldı
+
+
+
+*** Sadece firmalara açık olacak 
+Bu firmalar, sistem üzerinde tanımlı etkinlik bilgilerini çekebilirler. Bu firmalar farklı yapılara sahip 
+olabileceğinden sistem bu verileri hem XML, hem de JSON formatında sunar

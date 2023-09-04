@@ -1,0 +1,16 @@
+Role : Admin
+
+{
+  "email": "admin@example.com",
+  "password": "Admin123."
+}
+
+{
+  "email": "kurumsal@gmail.com",
+  "password": "Kurumsal12."
+}
+
+
+UserType : Person , Institution , Admin
+
+AppUserEventType : Participant , Creator

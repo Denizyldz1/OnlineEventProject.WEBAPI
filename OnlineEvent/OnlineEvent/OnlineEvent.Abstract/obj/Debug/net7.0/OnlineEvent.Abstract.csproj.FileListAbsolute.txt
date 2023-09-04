@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\bin\Debug\net7.0\OnlineEvent.Abstract.deps.json
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\bin\Debug\net7.0\OnlineEvent.Abstract.dll
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\bin\Debug\net7.0\OnlineEvent.Abstract.pdb
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\bin\Debug\net7.0\OnlineEvent.Core.dll
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\bin\Debug\net7.0\OnlineEvent.Model.dll
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\bin\Debug\net7.0\OnlineEvent.Core.pdb
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\bin\Debug\net7.0\OnlineEvent.Model.pdb
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\obj\Debug\net7.0\OnlineEvent.Abstract.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\obj\Debug\net7.0\OnlineEvent.Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\obj\Debug\net7.0\OnlineEvent.Abstract.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\obj\Debug\net7.0\OnlineEvent.Abstract.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\obj\Debug\net7.0\OnlineEvent.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\obj\Debug\net7.0\OnlineEvent.Abstract.csproj.CopyComplete
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\obj\Debug\net7.0\OnlineEvent.Abstract.dll
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\obj\Debug\net7.0\refint\OnlineEvent.Abstract.dll
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\obj\Debug\net7.0\OnlineEvent.Abstract.pdb
+C:\Users\ASUS\Desktop\OnlineEvent\OnlineEvent\OnlineEvent.Abstract\obj\Debug\net7.0\ref\OnlineEvent.Abstract.dll

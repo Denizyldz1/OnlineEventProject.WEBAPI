@@ -1,0 +1,8 @@
+﻿namespace OnlineEvent.Model.AppRoleModels
+{
+    public class AppRoleModel
+    {
+        public int Id { get; set; }
+        public  string? Name { get; set; }
+    }
+}
